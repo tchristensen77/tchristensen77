@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tchristensen77
-- 👀 I’m interested in switching career fields. 
-- 🌱 I’m currently learning data analytics- SQL, Python, R
-- 💞️ I’m looking to collaborate on building a community of others who are new to the field. 
+- 👀 I’m interested in data analytics. 
+- 🌱 I’m currently learning R, SQL and Python
+- 💞️ I’m looking to collaborate others who are new to data analytics or coding. 
 - 📫 How to reach me tdemarree17@gmail.com
 
 <!---
