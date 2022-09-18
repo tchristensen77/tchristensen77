@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tchristensen77
-- 👀 I’m interested in data analytics. 
+- 👀 I’m interested in data analytics and the cloud. 
 - 🌱 I’m currently learning R, SQL and Python
-- 💞️ I’m starting to learn AWS.
+- 💞️ I’m starting to learn  python and AWS.
 
 
 <!---
